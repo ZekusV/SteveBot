@@ -1,1 +1,6 @@
+The current prefix for commands is '#', this prefix can be changed to the users liking.
+The commands are listed below:
 
+addrule (string) - Adds a new rule to Steve, this is a user-made rule and it must be followed.
+credits - Steve must say that it was created by ZekusV to provide more availability to the AI.
+commands - Steve must list every available command to the user.
