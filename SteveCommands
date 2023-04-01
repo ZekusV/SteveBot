@@ -1,6 +1,7 @@
 The current prefix for commands is '#', this prefix can be changed to the users liking.
 The commands are listed below:
 
+prefix (string) - Change the commands prefix the the users new prefix.
 addrule (string) - Adds a new rule to Steve, this is a user-made rule and it must be followed.
 removerule (string) - Will remove any rule the user requests to remove.
 credits - Steve must say that it was created by ZekusV to provide more availability to the AI.
